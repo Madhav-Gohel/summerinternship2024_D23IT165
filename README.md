@@ -3,10 +3,6 @@
 ### Welcome to My GitHub Repository for the Web Scraping and Data Mining Summer Internship 2024!
 This repository highlights the projects and practical experiences gained during my 4-week internship, focusing on data mining and web scraping methodologies.
 
-
-
-
-
 ## **Internship Details**
 This 4-week summer internship provided a comprehensive learning experience in data mining and web scraping. Key aspects of the internship included:
 
@@ -17,6 +13,15 @@ This 4-week summer internship provided a comprehensive learning experience in da
 - **Tools Used:** Utilized various tools and libraries to accomplish tasks and solve problems.
 - **Outcomes:** Enhanced technical skills, learned best practices, and developed a solid foundation in the field.
 This repository contains the insights gained throughout the internship, showcasing the knowledge and experience acquired.
+
+## **Company Details**
+The internship was hosted by a prominent company named [**DSU Infotech**](https://dsuinfotech.com) a young and enterprising IT solutions Provider Company, having a rich and diverse domain expertise in a number of areas. Key details about the company include:
+
+- **Company Location:** Based in **Vadodara, Gujarat**.
+- **Established:** Founded in 2012, with a rich history of innovation and growth.
+- **Mission:** Dedicated to be client-centric, technology-driven, adaptive, innovative and creative in  approach for attaining excellence and promoting profitability for clients and ourselves by delivering best IT solutions and its successful implementation
+
+This company provided a supportive and resource-rich environment, allowing me to gain practical experience and knowledge during my 4-week internship in data mining and web scraping.
 
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
