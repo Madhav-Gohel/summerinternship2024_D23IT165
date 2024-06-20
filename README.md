@@ -23,6 +23,8 @@ The internship was hosted by a prominent company named [**DSU Infotech**](https:
 
 This company provided a supportive and resource-rich environment, allowing me to gain practical experience and knowledge during my 4-week internship in data mining and web scraping.
 
+ ### In this page all day to day progress is mentioned
+
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
