@@ -25,6 +25,20 @@ This company provided a supportive and resource-rich environment, allowing me to
 
  ### In this page all day to day progress is mentioned
 
+ ### Week 1: Introduction to Web Scraping
+
+**Day 1:**
+- **Task:** Introduction to Web Scraping
+- **Activities:**
+  - Read about web scraping: its uses, benefits, and legal considerations.
+  - Set up Python environment (install Python, pip, and necessary libraries like `requests`, `BeautifulSoup`, `pandas`).
+
+**Day 2:**
+- **Task:** Basic HTML and CSS
+- **Activities:**
+  - Learn the basics of HTML and CSS (tags, attributes, structure).
+  - Practice by inspecting web pages using browser developer tools.
+
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
