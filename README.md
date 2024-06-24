@@ -38,6 +38,18 @@ This company provided a supportive and resource-rich environment, allowing me to
 - **Activities:**
   - Learn the basics of HTML and CSS (tags, attributes, structure).
   - Practice by inspecting web pages using browser developer tools.
+    
+**Day 3:**
+- **Task:** Introduction to `requests` and `BeautifulSoup`
+- **Activities:**
+  - Learn how to make HTTP requests using the `requests` library.
+  - Learn how to parse HTML content using `BeautifulSoup`.
+
+**Day 4:**
+- **Task:** Extracting Data from Static Web Pages
+- **Activities:**
+  - Extract data from a simple static website (e.g., quotes.toscrape.com).
+  - Practice finding and extracting different HTML elements (headings, paragraphs, lists).
 
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
