@@ -51,6 +51,21 @@ This company provided a supportive and resource-rich environment, allowing me to
   - Extract data from a simple static website (e.g., quotes.toscrape.com).
   - Practice finding and extracting different HTML elements (headings, paragraphs, lists).
 
+
+**Day 5:**
+- **Task:** Data Cleaning and Storage
+- **Activities:**
+  - Learn basic data cleaning techniques using `pandas`.
+  - Store the extracted data into a CSV file.
+
+### Week 2: Intermediate Web Scraping
+
+**Day 6:**
+- **Task:** Handling Multiple Pages
+- **Activities:**
+  - Learn how to scrape data from multiple pages of a website.
+  - Implement pagination handling (e.g., looping through pages).
+
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
