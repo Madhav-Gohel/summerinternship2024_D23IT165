@@ -66,6 +66,18 @@ This company provided a supportive and resource-rich environment, allowing me to
   - Learn how to scrape data from multiple pages of a website.
   - Implement pagination handling (e.g., looping through pages).
 
+**Day 7:**
+- **Task:** Working with Different Data Formats
+- **Activities:**
+  - Extract data from websites returning JSON responses.
+  - Practice parsing JSON data.
+
+**Day 8:**
+- **Task:** Handling Forms and Logins
+- **Activities:**
+  - Learn how to handle form submissions and logins.
+  - Practice by scraping a website that requires form submissions.
+
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
