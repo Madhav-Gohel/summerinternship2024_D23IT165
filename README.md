@@ -78,6 +78,31 @@ This company provided a supportive and resource-rich environment, allowing me to
   - Learn how to handle form submissions and logins.
   - Practice by scraping a website that requires form submissions.
 
+**Day 9:**
+- **Task:** Exception Handling and Robustness
+- **Activities:**
+  - Learn how to handle exceptions and make your scraper robust.
+  - Implement try-except blocks and logging.
+
+**Day 10:**
+- **Task:** Project: Scraping a Job Listings Site
+- **Activities:**
+  - Start a project to scrape job listings from a website like indeed.com.
+  - Extract job titles, companies, locations, and other relevant details.
+
+### Week 3: Advanced Web Scraping
+
+**Day 11:**
+- **Task:** Introduction to Selenium
+- **Activities:**
+  - Learn the basics of Selenium for web scraping dynamic content.
+  - Set up Selenium with a web driver (ChromeDriver, GeckoDriver).
+
+**Day 12:**
+- **Task:** Scraping Dynamic Content with Selenium
+- **Activities:**
+  - Use Selenium to scrape content from websites that load content dynamically (e.g., infinite scroll).
+
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
