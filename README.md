@@ -102,6 +102,31 @@ This company provided a supportive and resource-rich environment, allowing me to
 - **Task:** Scraping Dynamic Content with Selenium
 - **Activities:**
   - Use Selenium to scrape content from websites that load content dynamically (e.g., infinite scroll).
+**Day 13:**
+- **Task:** Handling JavaScript-Rendered Content
+- **Activities:**
+  - Learn to wait for elements to load using Selenium's explicit and implicit waits.
+  - Practice extracting data from JavaScript-rendered content.
+
+**Day 14:**
+- **Task:** Interacting with Web Elements using Selenium
+- **Activities:**
+  - Practice clicking buttons, filling forms, and navigating pages using Selenium.
+
+**Day 15:**
+- **Task:** Project: Scraping a Dynamic Website
+- **Activities:**
+  - Start a project to scrape a dynamic website (e.g., a travel booking site).
+  - Extract relevant data and handle dynamic content.
+
+### Week 4: Data Cleaning and Storage
+
+**Day 16:**
+- **Task:** Advanced Data Cleaning Techniques
+- **Activities:**
+  - Learn advanced data cleaning techniques using `pandas`.
+  - Handle missing values, duplicates, and data transformations.
+
 
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
