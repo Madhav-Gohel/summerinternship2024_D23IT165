@@ -126,7 +126,29 @@ This company provided a supportive and resource-rich environment, allowing me to
 - **Activities:**
   - Learn advanced data cleaning techniques using `pandas`.
   - Handle missing values, duplicates, and data transformations.
+**Day 17:**
+- **Task:** Storing Data in Databases
+- **Activities:**
+  - Learn how to store scraped data in a relational database (e.g., SQLite, MySQL).
+  - Practice creating tables and inserting data using SQLAlchemy.
 
+**Day 18:**
+- **Task:** Data Storage in NoSQL Databases
+- **Activities:**
+  - Learn how to store data in a NoSQL database (e.g., MongoDB).
+  - Practice inserting and querying data using `pymongo`.
+
+**Day 19:**
+- **Task:** Project: Comprehensive Data Scraping and Storage
+- **Activities:**
+  - Integrate data scraping with data storage in a database.
+  - Extract, clean, and store data from a website of your choice.
+
+**Day 20:**
+- **Task:** Automating and Scheduling Scrapers
+- **Activities:**
+  - Learn how to automate and schedule your scrapers using tools like `cron` (Linux) or Task Scheduler (Windows).
+  - Practice writing scripts to run scrapers at regular intervals.
 
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
