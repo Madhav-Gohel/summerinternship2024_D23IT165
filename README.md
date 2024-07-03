@@ -149,6 +149,19 @@ This company provided a supportive and resource-rich environment, allowing me to
 - **Activities:**
   - Learn how to automate and schedule your scrapers using tools like `cron` (Linux) or Task Scheduler (Windows).
   - Practice writing scripts to run scrapers at regular intervals.
+### Week 5: Final Project and Best Practices
+
+**Day 21:**
+- **Task:** Planning the Final Project
+- **Activities:**
+  - Choose a final project that involves scraping data from a complex website.
+  - Plan the project scope, objectives, and deliverables.
+
+**Day 22:**
+- **Task:** Implementing the Final Project (Part 1)
+- **Activities:**
+  - Start working on the final project.
+  - Implement the initial data extraction logic.
 
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
