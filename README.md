@@ -162,6 +162,23 @@ This company provided a supportive and resource-rich environment, allowing me to
 - **Activities:**
   - Start working on the final project.
   - Implement the initial data extraction logic.
+**Day 23:**
+- **Task:** Implementing the Final Project (Part 2)
+- **Activities:**
+  - Continue working on the final project.
+  - Handle data cleaning and storage.
+
+**Day 24:**
+- **Task:** Implementing the Final Project (Part 3)
+- **Activities:**
+  - Finalize the data extraction and storage.
+  - Implement any remaining features.
+
+**Day 25:**
+- **Task:** Review and Presentation
+- **Activities:**
+  - Review the final project for any improvements or optimizations.
+  - Prepare a presentation summarizing the project, challenges faced, and solutions implemented.
 
 ## **Licenses**
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
