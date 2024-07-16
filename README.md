@@ -4,7 +4,7 @@
 This repository highlights the projects and practical experiences gained during my 4-week internship, focusing on data mining and web scraping methodologies.
 
 ## **Internship Details**
-This 4-week summer internship provided a comprehensive learning experience in data mining and web scraping. Key aspects of the internship included:
+This 5-week summer internship provided a comprehensive learning experience in data mining and web scraping. Key aspects of the internship included:
 
 - **Duration:** **13th May 2024 - 20th June 2024 (5 weeks)** of hands-on training and project work.
 - **Domain:** Web Scraping/Data Mining **using Python**
