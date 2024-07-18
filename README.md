@@ -1,7 +1,7 @@
 # **Summer Internship 2024 D23IT165**
 
 ### Welcome to My GitHub Repository for the Web Scraping and Data Mining Summer Internship 2024!
-This repository highlights the projects and practical experiences gained during my 4-week internship, focusing on data mining and web scraping methodologies.
+This repository highlights the projects and practical experiences gained during my 5-week internship, focusing on data mining and web scraping methodologies.
 
 ## **Internship Details**
 This 5-week summer internship provided a comprehensive learning experience in data mining and web scraping. Key aspects of the internship included:
