@@ -1,14 +1,14 @@
 # **Summer Internship 2024 D23IT165**
 
-### Welcome to My GitHub Repository for the Web Scraping and Data Mining Summer Internship 2024!
-This repository highlights the projects and practical experiences gained during my 5-week internship, focusing on data mining and web scraping methodologies.
+### Welcome to My GitHub Repository for the Web Scraping and Data Exploration Summer Internship 2024!
+This repository highlights the projects and practical experiences gained during my 5-week internship, focusing on data exploration and web scraping methodologies.
 
 ## **Internship Details**
-This 5-week summer internship provided a comprehensive learning experience in data mining and web scraping. Key aspects of the internship included:
+This 5-week summer internship provided a comprehensive learning experience in data exploration and web scraping. Key aspects of the internship included:
 
 - **Duration:** **13th May 2024 - 20th June 2024 (5 weeks)** of hands-on training and project work.
-- **Domain:** Web Scraping/Data Mining **using Python**
-- **Skills Developed:** Gained practical experience with data mining and web scraping techniques.
+- **Domain:** Web Scraping/Data Explration **using Python**
+- **Skills Developed:** Gained practical experience with data Exploration and web scraping techniques.
 - **Projects:** Worked on real-world projects to apply theoretical knowledge in practical scenarios.
 - **Tools Used:** Utilized various tools and libraries to accomplish tasks and solve problems.
 - **Outcomes:** Enhanced technical skills, learned best practices, and developed a solid foundation in the field.
@@ -21,7 +21,7 @@ The internship was hosted by a prominent company named [**DSU Infotech**](https:
 - **Established:** Founded in 2012, with a rich history of innovation and growth.
 - **Mission:** Dedicated to be client-centric, technology-driven, adaptive, innovative and creative in  approach for attaining excellence and promoting profitability for clients and ourselves by delivering best IT solutions and its successful implementation
 
-This company provided a supportive and resource-rich environment, allowing me to gain practical experience and knowledge during my 4-week internship in data mining and web scraping.
+This company provided a supportive and resource-rich environment, allowing me to gain practical experience and knowledge during my 5-week internship in data exploration and web scraping.
 
  ### In this page all day to day progress is mentioned
 
